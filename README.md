@@ -1,4 +1,13 @@
 # MD5
+
+<div align="center">
+
+![c#](https://img.shields.io/badge/CSharp-A8B9CC.svg?style=for-the-badge&logo=csharp&logoColor=222222)
+![license](https://img.shields.io/npm/l/vue-zooming-image?style=for-the-badge)
+
+</div>
+
+
 A C# implementation of the MD5 hashing algorithm, originally written in 2018. Since [MD5 is vulnerable to collision attacks](https://www.mscs.dal.ca/~selinger/md5collision/), it should no longer be used as a cryptographic hash function, but it can still be used for file integrity checks.
 
 This implementation was written as part of a learning process to better understand the algorithm. For any important tasks, please use a mature implementation of the MD5 algorithm.
